@@ -6,6 +6,7 @@
 - 📫 Reach me via http://linkedin.com/in/aung-htet-paing-852380191 or https://mobile.twitter.com/aunghte23771311.
 
 ## My stats  
+View Count:   
 ![Visitor Count](https://profile-counter.glitch.me/ahp-sooyaa/count.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
