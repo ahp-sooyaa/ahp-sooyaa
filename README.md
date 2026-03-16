@@ -6,9 +6,13 @@ I focus on building scalable full-stack web applications with Next.js, clean arc
 ## 🛠 Tech Stack
 
 **Languages:** JavaScript, TypeScript, HTML, CSS
+
 **Frontend:** React, Next.js, Tailwind CSS, shadcn/ui
+
 **Backend & Auth:** better-auth, Clerk
+
 **Database & ORM:** PostgreSQL, MySQL, Drizzle ORM, Supabase
+
 **Tools:** Git, Antigravity, Google Stitch
 
 ## 🚧 Projects in Progress
@@ -23,9 +27,10 @@ Tech: Next.js, NestJS, Gemini API, Supabase
 A learning management system built with Next.js.
 
 Features:
-• role-based access (admin, teacher, student)
-• class management and enrollment
-• assignments and course materials
+
+- role-based access (admin, teacher, student)
+- class management and enrollment
+- assignments and course materials
 
 Tech: Next.js, Drizzle ORM, PostgreSQL, BetterAuth, shadcn/ui
 
@@ -46,8 +51,11 @@ I uploaded some raw screen recroding to youtube and post to linkedin.
 - Portfolio: [https://aunghtetpaing.netlify.app](https://aunghtetpaing.netlify.app/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahp-sooyaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahp-sooyaa&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahp-sooyaa&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahp-sooyaa&layout=compact&theme=radical)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahp-sooyaa&theme=onedark&row=1&column=7)
 
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
