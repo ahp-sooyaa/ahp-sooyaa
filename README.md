@@ -17,12 +17,6 @@ I focus on building scalable full-stack web applications with Next.js, clean arc
 
 ## 🚧 Projects in Progress
 
-### DevMentor (AI Coding Tutor)
-An experimental platform where an AI agent reviews student code and
-provides feedback during coding tutorials.
-
-Tech: Next.js, NestJS, Gemini API, Supabase
-
 ### LMS Platform
 A learning management system built with Next.js.
 
